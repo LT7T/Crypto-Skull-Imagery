@@ -1,6 +1,6 @@
 # Crypto-Skull-Imagery
 
-This repo contains CryptoSkulls 0-9999 NFT Images with backgrounds removed and replaced with transaprency.
+This repo contains CryptoSkulls 0-9999 NFT Images with backgrounds and with backgrounds removed and replaced with transaprency.
 
 Coming Soon:
  - Python script to pull all of the original SKull images with backgrounds from the Crypto Skull API.
